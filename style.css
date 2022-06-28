@@ -164,3 +164,46 @@ body {
   top: 200px;
 } */
 
+/* 
+Exercise 5
+
+body {
+  margin: 0;
+  border: 5px solid black;
+  height: 100vh;
+  position: relative;
+}
+
+.one {
+  width: 800px;
+  height: 800px;
+  background-color: red;
+}
+
+.two {
+  width: 600px;
+  height: 600px;
+  background-color: yellow;
+  position: relative;
+  top: 153%;
+  left: 339%;
+
+}
+
+.three {
+  width: 400px;
+  height: 400px;
+  background-color: green;
+  position: relative;
+  top: -400px;
+
+}
+
+.four {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  position: absolute;
+  top: -825px;
+  right: 728%;
+} */
