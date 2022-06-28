@@ -1,0 +1,26 @@
+.container-signup {
+    height: 100px;
+    position: relative;
+}
+
+.button-signup {
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    background-color: rgb(85, 170, 240);
+    color: white;
+    border: 0.5px solid #666666;
+    padding: 10px 20px;
+    border-radius: 2px;
+}
+
+.button-signup:hover {
+    cursor: pointer;
+    background-color:rgb(15, 97, 164);
+
+} 
+
+.button-signup:active {
+    box-shadow: -1px -1px #c1c1c1;
+}
+
