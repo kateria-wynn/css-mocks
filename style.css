@@ -40,3 +40,38 @@ body {
   top: 100px;
   left: 100px;
 } */
+
+
+body {
+  margin: 0;
+  border: 5px solid black;
+  height: 100vh;
+  position: relative;
+}
+
+.one {
+  width: 800px;
+  height: 800px;
+  background-color: red;
+}
+
+.two {
+  width: 600px;
+  height: 600px;
+  background-color: yellow;
+}
+
+.three {
+  width: 400px;
+  height: 400px;
+  background-color: green;
+}
+
+.four {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
