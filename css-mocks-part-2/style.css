@@ -2,7 +2,6 @@
     height: 100px;
     position: relative;
 }
-
 .button-signup {
     position: absolute;
     top: 40%;
@@ -13,14 +12,39 @@
     padding: 10px 20px;
     border-radius: 2px;
 }
-
 .button-signup:hover {
     cursor: pointer;
     background-color:rgb(15, 97, 164);
 
 } 
-
 .button-signup:active {
     box-shadow: -1px -1px #c1c1c1;
 }
-
+.container-cat {
+    background-color: rgba(238,238,238,255);
+    border: 1px solid #c1c1c1;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: -1px 3px 2px #aba8a8;
+}
+.img-cat {
+    width: 400px;
+    height: 250px;
+    border-radius: 10px 10px 0px 0px;
+}
+.heading-cat {
+    padding: 0px 10px 0px;
+    margin: 10px 0px 10px;
+}
+hr {
+    border: 0;
+    height: 0;
+    border-top: 0.5px solid #aba8a8;
+    border-bottom: 0.5px solid #aba8a8;
+}
+p {
+  font-size: 0.8rem; 
+  padding: 0px 10px 0px; 
+}
