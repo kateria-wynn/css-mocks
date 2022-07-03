@@ -41,7 +41,6 @@ body {
   left: 100px;
 } */
 
-
 /* 
 Exercise 2
 
@@ -78,7 +77,6 @@ body {
   top: 0px;
   right: 0px;
 } */
-
 
 /* 
 Exercise 3
@@ -118,7 +116,6 @@ body {
   position: relative;
   top: 200px;
 } */
-
 
 /* 
 Exercise 4
@@ -164,9 +161,6 @@ body {
   top: 200px;
 } */
 
-/* 
-Exercise 5
-
 body {
   margin: 0;
   border: 5px solid black;
@@ -187,7 +181,6 @@ body {
   position: relative;
   top: 153%;
   left: 339%;
-
 }
 
 .three {
@@ -196,7 +189,6 @@ body {
   background-color: green;
   position: relative;
   top: -400px;
-
 }
 
 .four {
@@ -206,4 +198,4 @@ body {
   position: absolute;
   top: -825px;
   right: 728%;
-} */
+}
